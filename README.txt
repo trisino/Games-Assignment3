@@ -184,7 +184,16 @@ Player GX/Y CW CH SX SY SM GY B
     Max Speed SM float
     Gravity GY float
     Bullet Animation B std::string (Animation asset to use for bullets)
-
+    
+-----------------------------------------------------------------
+		    Map Specifications
+-----------------------------------------------------------------
+the map has been generated from Tiled, and it has been readed as 
+a matrix, we've simulated a matrix, we haven't stored an actual 
+matrix 'cause would've been a waste of memory, as we won't access 
+the matrix any more in the code. So in order to read the file as 
+a matrix we've split in 2 nested for-loops the reading of it so 
+that the matrix can be simualted it will be (height X width) matrix.
 -----------------------------------------------------------------
                     Assignments Hits
 -----------------------------------------------------------------

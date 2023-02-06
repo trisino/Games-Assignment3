@@ -1,0 +1,32 @@
+Texture     4           ../sync/bin/images/megaman/megaStand.png
+Texture     5           ../sync/bin/images/megaman/megaShot.png
+Texture     2           ../sync/bin/images/megaman/megaRun.png
+Texture     3           ../sync/bin/images/megaman/megaJump.png
+Texture     6           ../sync/bin/images/megaman/megaBuster.png
+Texture     1           ../sync/bin/images/mario/ground.png
+Texture     12          ../sync/bin/images/mario/SmallCloud.png
+Texture     7           ../sync/bin/images/animations/explosion.png
+Texture     8           ../sync/bin/images/mario/BigBush.png
+Texture     10          ../sync/bin/images/mario/SmallBush.png
+Texture     13          ../sync/bin/images/mario/GoombaWalk.png
+Texture     14          ../sync/bin/images/mario/Busher.png
+Texture     15          ../sync/bin/images/mario/SmallPipe.png
+Texture     16          ../sync/bin/images/mario/BigCloud.png
+Texture     17          ../sync/bin/images/mario/GoombaDeath.png
+Animation   4           4           1   1
+Animation   1           1           1   1
+Animation   2           2           3   8 
+Animation   3           3           1   1
+Animation   5           5           1   1
+Animation   10          8           1   1
+Animation   6           6           1   1
+Animation   12          12          1   1
+Animation   7           7           12  8
+Animation   14          10           1   1
+Animation   15          15           1   1
+Animation   16          14           1   1
+Animation   17          13           2   8
+Animation   18          16           1   1
+Animation   19          17           2   6 
+Font        1           ../sync/bin/fonts/numbers.ttf
+Font        2           ../sync/bin/fonts/pixeled.ttf
